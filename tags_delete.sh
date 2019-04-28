@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## ##############################################################################################################################
-##  Author : Sahid Shaik                                                                                                        #                            
+##  Author : Sahid Shaik  shahids89@gmail.com                                                                                                      #                            
 ## Usage: ./tags_delete.sh                                                                                                      #
 ## Harbor images deletion is 2 step process                                                                                     #
 ## 1. Soft delete image using this script                                                                                       #
