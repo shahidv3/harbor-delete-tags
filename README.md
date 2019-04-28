@@ -13,7 +13,10 @@ It is a 2 step process
 First you need to delete a container images from Harbor's UI. This is soft deletion. And then you need to run Garbage Collector which actually deletes the files from repository.
 
 > Now the problem statement is removing the repository files or container images from Harbor's UI is a cumbersome process and requires manual intervention. 
-Lets see how can we automate the process of deletion of repository container images using Harbor's REST API and Shell scripting without using UI
+
+**Lets see how can we automate the process of deletion of repository container images using Harbor's REST API and Shell scripting without using UI
+
+You can also  start reading my blog here [Shahid's medium blog](https://medium.com/@shahids89/).
 
 ```
 #!/bin/bash
